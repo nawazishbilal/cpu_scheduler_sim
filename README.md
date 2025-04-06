@@ -20,9 +20,7 @@ An interactive desktop application built using Python and Tkinter to simulate va
 
 - `main.py`: GUI, event handling, simulation logic, Gantt chart rendering
 - `scheduler.py`: Contains all CPU scheduling algorithms
-- `utils.py`: Optional helper functions (if used)
 - `README.md`: Project overview and usage
-- `report.docx`: Project documentation (for submission)
 
 ## 🛠️ Technologies Used
 
@@ -48,11 +46,6 @@ Run Simulation
    ↓
 Gantt Chart + Output Display
 ```
-
-## 🗂 GitHub Info
-
-- **Repository Name:** `intelligent-cpu-scheduler`
-- **GitHub Link:** *[Insert your GitHub repo link here]*
 
 ## 📚 How to Run
 
