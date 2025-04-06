@@ -51,7 +51,7 @@ Gantt Chart + Output Display
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/intelligent-cpu-scheduler
+   git clone https://github.com/nawazishbilal/cpu_scheduler_sim
    ```
 2. Install required dependencies:
    ```bash
