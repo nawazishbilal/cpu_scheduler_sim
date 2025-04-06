@@ -56,6 +56,7 @@ Gantt Chart + Output Display
 2. Install required dependencies:
    ```bash
    pip install matplotlib
+   pip install ttkthemes
    ```
 3. Run the app:
    ```bash
